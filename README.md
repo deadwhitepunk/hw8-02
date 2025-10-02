@@ -58,7 +58,9 @@
 1. Загрузите файл в репозиторий с помощью jenkins.
 
 В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
-
+![Скрин репозитория](https://github.com/deadwhitepunk/hw8-02/blob/main/img/image6.png)
+![Код декларативного пайплайна](https://github.com/deadwhitepunk/hw8-02/blob/main/img/image7.png)
+![Вывод консоли](https://github.com/deadwhitepunk/hw8-02/blob/main/img/image8.png)
 ---
 ## Дополнительные задания* (со звёздочкой)
 
