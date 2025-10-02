@@ -75,3 +75,6 @@
 Подсказка: используйте переменную BUILD_NUMBER.
 
 В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
+![Скрин репозитория](https://github.com/deadwhitepunk/hw8-02/blob/main/img/image9.png)
+![Код декларативного пайплайна](https://github.com/deadwhitepunk/hw8-02/blob/main/img/image10.png)
+![Вывод консоли](https://github.com/deadwhitepunk/hw8-02/blob/main/img/image11.png)
