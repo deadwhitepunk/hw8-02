@@ -28,10 +28,12 @@
 
 В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
 
----
 ![Консоль выполнения проекта](https://github.com/deadwhitepunk/hw8-02/blob/main/img/image1.png)
 ![Настройки проекта часть 1](https://github.com/deadwhitepunk/hw8-02/blob/main/img/image2.png)
 ![Настройки проекта часть 2](https://github.com/deadwhitepunk/hw8-02/blob/main/img/image3.png)
+---
+
+
 
 ### Задание 2
 
@@ -42,6 +44,8 @@
 
 В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
 
+![Вывод консоли](https://github.com/deadwhitepunk/hw8-02/blob/main/img/image4.png)
+![Код декларативного пайплайна](https://github.com/deadwhitepunk/hw8-02/blob/main/img/image5.png)
 ---
 
 ### Задание 3
